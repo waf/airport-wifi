@@ -1,15 +1,26 @@
-html, body {
+html {
+    overflow-y:scroll;
+}
+body {
     font-family:sans-serif;
-    margin:0;
     padding:0;
+    max-width:800px;
+    margin: 0 auto;
 }
 h1 {
     text-align:center;
+}
+input {
+    display:block;
+    margin:24px auto;
+    padding:0.4em;
 }
 section {
     padding:1em;
     margin:0;
 }
-section:nth-child(even) {
-    background-color:#defdff;
+section:nth-child(odd) {
+    background-color: #fafafa;
+    border-top: 1px solid #ddd;
+    box-shadow: 0 2px 2px #ccc;
 }
