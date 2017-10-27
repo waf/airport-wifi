@@ -37,31 +37,29 @@ function getKml(url) {
       reject(Error('There was a network error.'));
     };
 
-    // Send the request
     request.send();
   });
 }
 
-var imgSection = document.querySelector('section');
+function createPlace(placeXml) {
+    var description = placeXml.querySelector('description').textContent;
+    var appNotice = description.indexOf('Offline version of this map available');
+    description = description.substring(0, appNotice);
+    return {
+        airport: placeXml.querySelector('name').textContent,
+        description: description
+    };
+}
 
 window.addEventListener('load', function() {
     getKml('/airport-wifi/wifi.xml').then(function(kmlResponse) {
 
-        var places = kmlResponse.querySelectorAll('Placemark');
-        var fragment = document.createDocumentFragment();
-
-        places.forEach(place => {
-            var container = document.createElement("section");
-            var title = document.createElement("h2");
-            var wifi = document.createElement("div");
-            title.textContent = place.querySelector('name').textContent;
-            wifi.innerHTML = place.querySelector('description').textContent;
-            container.appendChild(title);
-            container.appendChild(wifi);
-            fragment.appendChild(container);
-        });
-
-        document.body.appendChild(fragment);
+        var placemarks = kmlResponse.querySelectorAll('Placemark');
+        var places = Array.prototype.map.call(placemarks, createPlace);
+        new List("airport-list", {
+            valueNames: ['airport', 'description'],
+            item: '<section><h2 class="airport"></h2><div class="description"></div></section>'
+        }, places);
 
     }, function(error) {
       console.log(error);
