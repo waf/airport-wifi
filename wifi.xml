@@ -1,0 +1,2773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Wireless Passwords From Airports And Lounges Around The World</name>
+    <description><![CDATA[Updated Oct 25, 2017 *Offline version of this map, WiFox: iOS http://apple.co/2b7BatI - Android: http://bit.ly/2dDeaaN<br><br>*You can contribute to this map by commenting here: http://bit.ly/2d13csJ <br>]]></description>
+    <Style id="icon-1417-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1417-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1417">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1417-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1417-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Airports</name>
+      <Placemark>
+        <name>Amsterdam Airport Schiphol</name>
+        <description><![CDATA[Free wifi; network name: Airport_Free_WiFi -- British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            4.7682744,52.3105386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frankfurt Airport</name>
+        <description><![CDATA[Free wireless extended throughout entire airport. Network name: Frankfurt Airport, Hotspot Telekom - Name and email required. (Password: Internet)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            8.5621518,50.0379326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Istanbul Ataturk Airport</name>
+        <description><![CDATA[Several passwords. Upstairs by the Food Court, network name: primeClass_lounge password: Convenient -- The Eat & Go by Gates 501-504 network name: "Eat&Go 500BG" password: istanbul10 -- Both In front of Skyteam Lounge:<br>Network: eatandgo. Password: istanbul1<br>Network: eatandGo2. Password: istanbul2 -- Takeoff Cafe; network name: takeoff - password: cafe1986 -- Network : TKLounge username : TK<br>password: VISITISTANBUL -- Tav Airport Hotel (inside airport); network name: TAVAIRPORTHOTEL - password: airporthotel2018 -- HSBC Premier Longue network name: BTA_HSBC password: CANAKKALE - (On the landing page, enter: username: BTA9 password: BODRUM) -- In front of Gate 228B - network name: Little Italy 1 - password: istanbul1<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            28.8104425,40.9829888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Simón Bolívar International Airport of Maiquetia</name>
+        <description><![CDATA[Wifi Network: WIFIAEROPUERTO Password: WIFIAEROPUERTO -- Admirals Club; password: club2000<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -66.9955364,10.6021245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sydney Airport</name>
+        <description><![CDATA[SkyTeam Lounge near Gate 24; password: skyteam2015  -- Emirates Lounge﻿: network name: EK Lounges password: e12345678e -- Virgin Domestic Lounge password: economyx -- Etihad Airways Lounge network name: EtihadSYD - password: etihadairways<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            151.1752764,-33.9399228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vienna International Airport</name>
+        <description><![CDATA[Free wireless; network name: AIRPORT_FREE_WIFI no password required throughout entire airport.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            16.5665751,48.1158333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zagreb Airport</name>
+        <description><![CDATA[15 minutes free wireless.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            16.0674365,45.7407504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heathrow Airport</name>
+        <description><![CDATA[Plaza Premium Lounge (arrivals hall) Terminal 2 network name: PPLLHR - password: plaza2015 -- Admirals Club; password: Houston2017 -- 40 minutes free wifi; lockouts MAC address based. Etihad Lounge Terminal 4 network name: EYLHRLG - password: asdfg12345 -- British Airways Galleries Club Lounge network name: BALoungeWiFi - password: lasvegas -- Emirates Lounge Terminal 3 network name: EK LOUNGES - password: FLYEKA380 -- Virgin Atlantic Lounge network name: Virgin Atlantic Clubhouse - password: style<br> <br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4542955,51.4700223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Aurora International Airport (GUA)</name>
+        <description><![CDATA[Outside of Airport Lounge Coffee Shop; wifi passwords - Airport Lounge 1: c56fd97a30<br>Airport Lounge 2: c56fd97a32 - network name: Pizza Hut - password: hutcheese<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -90.527463,14.583263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stockholm Arlanda Airport</name>
+        <description><![CDATA[Free wireless throughout airport -- SAS Lounge network name: SAS WiPoint - password: SASJOY -- Arlanda Stockholm Lounge (Priority Pass lounge) network name: AIRPORT_GUEST username: Arlanda2 password: Airport<br><br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            17.9237807,59.6497622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ninoy Aquino International Airport</name>
+        <description><![CDATA[Terminal 3: Go upstairs to left, follow all the way to end. At the food court there is wifi. If you buy a coffee they'll give you a password if you ask. -- Terminal 3 network name: Mr Fields Cafe - password: mfbrownies<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            121.016508,14.5122739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sao Paulo International Airport</name>
+        <description><![CDATA[Air France Business Lounge: Network name: villa gru - password: grulounge -- VIP Lounge LATAM; password: latamvip2 -- Star Alliance Lounge; network name: staralliance - password: alliance -- American Airlines Lounge network name: Admirals Club - password Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -46.478126,-23.4345529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hartsfield-Jackson Atlanta International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Admirals Club (North Terminal, Concourse T) password: Houston2017 -- The CLUB password: Georgia2013* -- United Lounge network name: united_club - password: CLUB6683 -- Free wifi network name: ATL Free Wi-Fi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4277001,33.6407282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boston Logan International Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017 -- Terminal E; Vino Volo password: welovewinetoo -- British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -71.0095602,42.3656132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[O'Hare International Airport]]></name>
+        <description><![CDATA[Delta Sky Club network name: DeltaSkyClub - password: happy -- Admirals Club; password: Houston2017 -- British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -87.9073214,41.9741625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cincinnati/Northern Kentucky International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6630165,39.0532746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DFW Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Centurion Lounge; password: MemberSince -- Admirals Club; password: Houston2017 -- British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -97.0400155,32.8980036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Detroit Metropolitan Wayne County Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- free wifi; network name: Detroit Airport WiFi <br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -83.3553842,42.2161722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Lauderdale-Hollywood International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -80.1506022,26.0742344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Honolulu International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -157.9250736,21.3245132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>George Bush Intercontinental Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Centurion Lounge; password: MemberSince -- British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -95.3367827,29.9902199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indianapolis International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -86.2977052,39.7149625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jacksonville International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -81.6879368,30.4940713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Angeles International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -118.40853,33.9415889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Memphis International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -89.9791729,35.0420679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miami International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Centurion Lounge; password: MemberSince -- American Airlines Lounge password: Houston2017 -- Latam Vip Lounge; network name: latam - password: salonvip36 -- Avianca Lounge; network name: Avianca_VIP password: aviancaglobal2015<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2870457,25.795865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>General Mitchell International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -87.896646,42.9475534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minneapolis−Saint Paul International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -93.2222846,44.8847554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nashville International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- American Airlines Admirals Club; password: Houston2017<br>(Concourse C, across from gate C10)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -86.6773713,36.126317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Louis Armstrong New Orleans International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -90.2590112,29.9922012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John F. Kennedy International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Admirals Club; password: Houston2017 -- Alitalia VIP Lounge; network name: AlitaliaVIP - password: romamilano -- British Airways Lounge password: lasvegas -- Wingtip Lounge password: WingtipS -- Terminal 5 network name: JetBlue Hotspot (no password) -- Etihad Lounge (Terminal 4) password: etihadjfk<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -73.7781391,40.6413111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LaGuardia Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -73.8739659,40.7769271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newark Liberty International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Admirals Club; password: Houston2017 -- British Airways Lounge password: lasvegas -- Air Canada Maple Leaf Lounge network name: Air Canada - (no password)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -74.1744624,40.6895314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orlando International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -81.308083,28.4311577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Philadelphia International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Admirals Club; password: Houston2017 -- British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -75.2424229,39.8743959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Alaska Airline Lounge - network name: AS_LOUNGE - password: AL2017 -- free wifi network name: flypdx<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5950942,45.5897694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raleigh-Durham International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -78.7879963,35.880079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salt Lake City International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -111.9790706,40.7899404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Diego International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- AA Lounge network name: Wifi Airspace - password airspace<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1933038,32.7338006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle-Tacoma International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Centurion Lounge; password: MemberSince -- Alaska Airlines Boardroom; password: AL2017<br>(North Satellite, between gates N1 and N2 and Concourse D, near Central Security Checkpoint)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3088165,47.4502499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tampa International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5370781,27.9834776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dulles International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- British Airways Lounge password: lasvegas -- United Club network name: united_club - password: GLOBAL7849<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -77.4565388,38.9531162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ronald Reagan Washington National Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy -- Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0402315,38.851242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palm Beach International Airport</name>
+        <description><![CDATA[Delta Sky Club password: happy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -80.0928165,26.6857475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Surat Thani International Airport</name>
+        <description><![CDATA[Cafe right next to the entrance, password: 12345678 -- Restaurant Sawasdee 1st floor password: 11223344 -- network name: BB_ _Catt 5G - password: 44556677<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            99.139167,9.136111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto de Málaga</name>
+        <description><![CDATA[Free wireless throughout airport; network name (Kubi)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -4.4896838,36.6749518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Copenhagen Airport</name>
+        <description><![CDATA[Free wireless -- SAS Lounge network name: SAS WiPoint - password: SASJOY<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            12.6507628,55.6180236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Budapest Airport</name>
+        <description><![CDATA[Free wireless. -- network name: Mastercard_wifi - password: mastercard<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            19.2522958,47.4384587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cologne Bonn Airport</name>
+        <description><![CDATA[Free wireless; signal strongest in domestic/EU terminal near security check.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            7.1407344,50.8707168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oulu Airport</name>
+        <description><![CDATA[Free wireless.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            25.3558378,64.9308748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Helsinki Airport</name>
+        <description><![CDATA[Free wireless; network name: Helsinki Airport Free Wi-Fi -- SAS Lounge network name: SAS WiPoint - password: SASHOME<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            24.9528604,60.3210416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montréal-Pierre Elliott Trudeau International Airport</name>
+        <description><![CDATA[Maple Lounge: Network name: VIP password: montreal -- Air Canada International Lounge (near Gate 56) network name: Air Canada (no password)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -73.7449195,45.4697382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oslo Airport</name>
+        <description><![CDATA[Two hours free wifi; unlimited for all with a .edu or eduroam email address -- SAS Lounge network name: SAS WiPoint - password: SASJOY -- OSL Lounge network name: OSL-lounge - password: lounge2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            11.1004153,60.1975501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KL International Airport</name>
+        <description><![CDATA[Free wifi; 3 hour time limit. -- Terminal 2 (Low Cost Terminal LCCT) Air Asia Red Premium Lounge;  network name: Premium_Red_Lounge<br>password: everyonecanfly<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            101.704312,2.754525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alicante Airport</name>
+        <description><![CDATA[Free wifi throughout airport. Network name: Kubi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -0.560056,38.285483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Addis Abada Airport (ADD)</name>
+        <description><![CDATA[network name: London cafe * - password: London25 -- network name: London Cafe 2.4 GHz - password: Comeagainl network name: London Cafe 5 GHz - password: Comeagainl -- Ethiopian Business Class Lounge network name: ncloud9 - password: ETStar21<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            38.8,8.976944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tocumen International Airport</name>
+        <description><![CDATA[30 minutes free wifi. Copa Club Tocumen network name: copa clup - password: Mendoza2017 -- Tierra Firme Restaurante network name: TIERRA FIRME WIFI - password: TFBARK2Q6<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3870681,9.0669766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Chinita International Airport</name>
+        <description><![CDATA[Free wireless but terrible signal.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -71.7239316,10.5550584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dubai International Airport</name>
+        <description><![CDATA[Dubai International Hotel (lounge opposite Boots store, concourse D). network: DubaiIntHotel<br>password: wifi@dih -- Marhaba Lounge network name: marhaba - password: Summer!17<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            55.3656728,25.2531745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ljubljana Jože Pučnik Airport</name>
+        <description><![CDATA[Free wireless throughout airport.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            14.4559143,46.2259433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sofia International Airport</name>
+        <description><![CDATA[Free wireless throughout airport. Signal strongest on upper level. Network name: Sofia Airport Public -- Aspire Lounge network name: Swissport AP - password: Swissport<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            23.4025526,42.6894991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auckland Airport</name>
+        <description><![CDATA[Free wireless in airport, 30 minute time limit. network name: Airport Hotspot -- network name: Emperor_Hotspot username: airportlounge<br>password: emper0r -- Qantas First Class Lounge network name: Qantas Club - username: qantas - password: flyqantas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            174.7879046,-36.9992609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leonardo da Vinci International Airport</name>
+        <description><![CDATA[Network Name: AIRPORT FREE WIFI  -- Alitalia Lounge: Network Name: Casa Alitalia Lounge; no password required -- Avia Lounge Network Name: Aviapartner ; password: Aviapartner01 -- British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            12.2462384,41.7998868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mexico City International Airport</name>
+        <description><![CDATA[Amex Centurion Club; network: Infintium; password: salacenturion1 -- United Club<br>network name: United Club 1 -<br>password: Myclub01 -- network name: Global Lounge password: 19301291 -- Admirals Club; password: Houston2017 -- network name: Infinitumqyuq - password: c3e6a67ec3 -- network name: GRANDLOUNGE1 - password: Bienvenido -- Terminal 1; network name: Teraza TGN - password: somoseldestino -- Terminal 2 Sala VIP Aeromexico network name: VIP SALONES PREMIER - password: MX-2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0719083,19.4360762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cape Town Intl (CPT)
+</name>
+        <description><![CDATA[Outside of Alba Easy Lounge; free wifi near gate 11 -- Emirates Lounge network name: Emirates - password: rolex1234<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            18.59527,-33.9693625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jomo Kenyatta International Airport</name>
+        <description><![CDATA[Turkish Airlines Lounge; password: primeclass2016 - Hardee's in food court, password: jambo1234<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            36.9260693,-1.3227102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barcelona–El Prat Airport</name>
+        <description><![CDATA[Terminal 1; T2A, T2B, T2C; network: Airport_Free_Wifi_AENA; free wifi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            2.0832941,41.297445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madrid-Barajas Airport</name>
+        <description><![CDATA[Terminals 1, 2, 3, select areas of T4 and boarding areas. Airport_Free_Wifi_AENA; free wifi -- Iberia Lounge password: panama -- VIP AENA Lounge; network name: VIP AENA - password: tcy4332<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5679515,40.4839361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belgrade Nikola Tesla International Airport</name>
+        <description><![CDATA[Network: UniFi; password unifi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            20.308642,44.8171052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skopje Alexander the Great Airport</name>
+        <description><![CDATA[T-Com Hotspot; free wifi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            21.6223532,41.963161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Kiev (IEV)</name>
+        <description><![CDATA[Free wifi.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            30.4445412,50.4077911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Henri Coandă International Airport</name>
+        <description><![CDATA[Free wifi -- first floor eatery, TakeOff; network name: TakeOff - password: vodafone123 -- network name: Lavazza - password: orange123<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            26.0844123,44.5707306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asheville Regional Airport</name>
+        <description><![CDATA[Free wifi.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5376489,35.4348429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reykjavík Airport</name>
+        <description><![CDATA[Free wifi.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -21.9366029,64.1296809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ercan Airport</name>
+        <description><![CDATA[Ercan (Cyprus) - ECN - Simit Sarayi outside security: 11223344<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            33.4960666,35.1563318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luxembourg Airport</name>
+        <description><![CDATA[Free wifi.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            6.2147446,49.6289002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wellington Airport</name>
+        <description><![CDATA[Free wifi.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            174.811966,-41.329855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stansted Airport</name>
+        <description><![CDATA[Free wifi 4 hours; network name: _stanstedairport<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            0.2617407,51.8899385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dresden Airport</name>
+        <description><![CDATA[Free wifi throughout terminal. network: mycloud; 30 minute time limit can be reset with new (if desired, fake) email.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            13.7672072,51.1321529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Angeles International Airport</name>
+        <description><![CDATA[Oneworld Lounge; network: oneworld -- password: oneworld -- Skyteam Lounge; network name: Skyteam; no password required -- Alaska Board Room; password: AL2017 -- Admirals Club; password: Houston2017 -- Emirates Lounge password: EK2017 -- United Club Terminal 7 password: CLUB8385 -- Qantas First Class Lounge - password: fly qantas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -118.40853,33.9415889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zurich Airport</name>
+        <description><![CDATA[Free wifi but you must get access code from information desk (unless you have a mobile number to get via text). Network name: ZurichAirport<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            8.5554755,47.4582165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EuroAirport Basel-Mulhouse-Freiburg</name>
+        <description><![CDATA[Free wifi with a 2 hour limit. Requires a (throwaway) email to reset the timer. Network name: Free_EuroAirport_WiFi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            7.5254958,47.5981804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ben Gurion Airport</name>
+        <description><![CDATA[Free wifi; network name: WIFI_BEN_GURION_AIRPORT<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            34.8854112,32.005532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bahrain International Airport</name>
+        <description><![CDATA[McDonald's in Departures Terminal. password: imlovinit -- Dilmun Lounge network name: Dilmun - password: ilovedilmun -- Falcon Gold Lounge network name: GF-Falcon - password: viplounge1234<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            50.6259871,26.2697119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Christchurch Airport</name>
+        <description><![CDATA[Free wifi; network name: CIAL_Free_WiFi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            172.5428217,-43.4880606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toulouse-Blagnac Airport</name>
+        <description><![CDATA[Free wifil network name: wifi-airport (no time limit).<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            1.367682,43.6293863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casablanca Mohammed V Airport</name>
+        <description><![CDATA[Starbucks; password: 12345678<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -7.5815075,33.3625183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Princess Juliana International Airport</name>
+        <description><![CDATA[Free wifi in arrivals and departures only, not beyond security check. Network name: SXM AIRPORT FREE WIFI<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1130821,18.0418698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pittsburgh International Airport</name>
+        <description><![CDATA[Free wifi; network name: Fly Pittsburgh -- Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2413113,40.4957722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Governor Francisco Gabrielli International Airport</name>
+        <description><![CDATA[Free wifi; network name: AA2000-Personal<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -68.7950728,-32.8282433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Internacional Ingeniero Ambrosio Taravella</name>
+        <description><![CDATA[Free wifi; network name: AA2000-Personal<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -64.2123198,-31.3154367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroparque Internacional Jorge Newbery</name>
+        <description><![CDATA[Free wifi; network name: AA2000-Personal<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -58.4170088,-34.5580305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ezeiza International Airport</name>
+        <description><![CDATA[Free wifi; network name: AA2000-Personal -- network name: ADMIRALS CLUB - password: aa164567 - network name: ADMIRALS CLUB 2 - password: a900908954 - network name: ADMIRALS CLUB 3 - password: a900908954 -- network name: Salon Vip Latam (username: latam) password: salonvip78<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -58.5348284,-34.8150044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aberdeen Airport</name>
+        <description><![CDATA[Free wifi; network name: BT Openzone -- British Airways Lounge (near gates 1 and 2); network name: BALoungeWiFi password: any departing flight number<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2001618,57.2036979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arturo Merino Benítez International Airport</name>
+        <description><![CDATA[Free wifi -- Admirals Club; password: Houston2017 -- Delta VIP Santiago Chile<br>password: DeltaAccess -- Salón VIP Santiago Chile password: inter022 -- network name: LATAM username: latam - password: salonvip36 -- network name: SALON VIP LATAM - password: salonvip78<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -70.7935671,-33.3935486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dublin Airport</name>
+        <description><![CDATA[Free wifi; network name: Dublin Airport Free WiFi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -6.2499098,53.4264481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Václav Havel Airport Prague</name>
+        <description><![CDATA[Free wifi; network name: prg.aero-free -- network name: Erste-Premier-Lounge (no password)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            14.2631811,50.101791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riga International Airport</name>
+        <description><![CDATA[Free wifi; network name: Connect IT Wi-Fi -- network name: Primeclasslounge - password: Primeclass2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            23.9733129,56.9226554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berlin Schönefeld Airport</name>
+        <description><![CDATA[Free wifi (60 minute limit); network name: Free Airport WiFi Telekom<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            13.5216148,52.3854411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jorge Chavez International Airport</name>
+        <description><![CDATA[Free wifi for customers at the Starbucks on the second floor. Caral Lounge (between gates 12-13) network name: Nlg Caral - password: PERNLG16 -- network name: CaralVip - password: flynlg16<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -77.112036,-12.0240527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tbilisi Airport</name>
+        <description><![CDATA[Free wifi; network name: Tbilisi Loves You -- Primeclass Lounge; password: primeclass2016<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            44.9568187,41.6697036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mactan-Cebu International Airport</name>
+        <description><![CDATA[Bo’s Coffee at the Mactan-Cebu Airport, Philippines: ashmugcup560<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            123.9802214,10.3106556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dubai International Airport</name>
+        <description><![CDATA[Emirates Lounge; password: ekloungedxb -- British Airways Lounge password: lasvegas -- Skyteam Lounge network name: SkyTeam - password: Ruby<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            55.3656728,25.2531745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunedin International Airport</name>
+        <description><![CDATA[Free wifi; 30 minute or 1000MB limit.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            170.3779494,-45.9258615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shanghai Pudong International Airport</name>
+        <description><![CDATA[SSID: #AirportPVG-WIFI<br>Username: 576518<br>Password: 3852<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            121.808273,31.1443439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Dorado International Airport</name>
+        <description><![CDATA[Free wireless. Signal strongest near Juan Valdez Cafe. -- Avianca VIP Lounge Gold and Diamond; network name: Vip_Movistar_Avianca password: MOVISTARFIBRA -- VIP LATAM Lounge network name: latam - password: salonvip78<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -74.1419602,4.6983396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Internacional Rafael Nuñez</name>
+        <description><![CDATA[Avianca VIP Lounge; password: MOVISTARVIDEO -- Sala Vip network name: Sala Vip SACSA -  password: S4cs4.2017.#<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -75.513981,10.446447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jerez Airport</name>
+        <description><![CDATA[Free wifi; network: Kubi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -6.0608778,36.7452935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seville</name>
+        <description><![CDATA[Free wifi; network: Kubi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -5.9844589,37.3890924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Alto International Airport</name>
+        <description><![CDATA[Free wifi; network name: ENTEL-LPZ -- VIP Lounge; network name: SALAS VIP - password: vip010616<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -68.1858061,-16.5108547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jorge Wilsterman Airport</name>
+        <description><![CDATA[Free wifi; network name: ENTEL-CBBA<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -66.178894,-17.413954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flores Airport</name>
+        <description><![CDATA[Free wifi; network name: ENTEL-SCZ<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -31.1316588,39.4559884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ngurah Rai International Airport</name>
+        <description><![CDATA[Restaurant Manda; password: lovebali -- network name: lastwave - password: funboard -- Last Place Naturally Fresh network name: Autigrill Free WiFi - password: panini -- TG Premium Lounge network name: TG PREMIUM LOUNGE - password: tg13042017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            115.166787,-8.7467172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HRE</name>
+        <description><![CDATA[Network name: ZolSecure ; available throughout most of the airport<br>(uses WPA2 Enterprise security with 802.1x authentication)<br><br>Identity (Username): saalounge[at]zol.co.zw<br>Anonymous identity: [leave this field blank]<br>Password: s786hab@<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            31.0972791,-17.918784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prince Mohammed Bin Abdulaziz International Airport</name>
+        <description><![CDATA[Free open WiFi, available throughout the airport.<br>Network name: TIBAHAIRPORTS<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            39.7150786,24.5537422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Martín Miguel de Güemes International Airport</name>
+        <description><![CDATA[Free wifi; network name: AA2000-Personal<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -65.4818289,-24.8505721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cataratas International Airport</name>
+        <description><![CDATA[Free wifi; network name: AA2000-Personal<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -54.478508,-25.733459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Carlos de Bariloche Airport</name>
+        <description><![CDATA[Free wifi; network name: AA2000-Personal<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -71.1536322,-41.1519554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Francisco Sá Carneiro Airport</name>
+        <description><![CDATA[Vip Lounge/ ANA Lounge. Pass: ANA2016OPO<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -8.6785514,41.2421186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Incheon International Airport</name>
+        <description><![CDATA[Free wifi; network name: AirportWiFi -- Asiana Airlines network name: OZ_Business - password: 032744123 -- Korean Airlines KAL Lounge network name: KAL Lounge - password: kalgmp1234<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            126.4406957,37.4601908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LGKR</name>
+        <description><![CDATA[Free wifi; network name: Civil_Aviation7<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            19.9144861,39.6076445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casablanca Mohammed V Airport</name>
+        <description><![CDATA[Free wifi, 3 hour time limit. Network name: WIFI_Aeroport_MedV<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -7.5815075,33.3625183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Francisco International Airport</name>
+        <description><![CDATA[Air France/KLM Lounge; network name: AIRFRANCEKLMLOUNGE password: AFRKLM01 -- Centurion Lounge; password: MemberSince -- Admirals Club; password: Houston2017 -- United Club International Terminal network name: united_club - password: club5750<br><br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3789554,37.6213129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sao Paulo International Airport</name>
+        <description><![CDATA[American Airlines Lounge password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -46.478126,-23.4345529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melbourne Airport</name>
+        <description><![CDATA[Emirates Lounge<br>Network name: Emiratesmelbourne<br>Password: H3!!0W0r!d -- Virgin Australia Lounge network name: Virgin Australia Lounge - password: economyx<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            144.840556,-37.6875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KL International Airport</name>
+        <description><![CDATA[Emirates Lounge<br>Network name: Emirates_Lounge<br>Password: abcde12345 -- O'Briens Global Cafe network name: OBRIENSKLIA - password: obriens123 -- Air Asia Red Premium Lounge network name: Premium_Red_Lounge - password: everyonecanfly -- Plaza Premium Lounge network name: Premium Plaza Lounge - password: plaza2017 -- MAS Golden Lounge network name: GoldenLoungeWiFi - password: malaysia1<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            101.704312,2.754525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Munich</name>
+        <description><![CDATA[Free wifi; network name: Free Wifi - Munich Aiport -- BA Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            11.5819806,48.1351253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Nürnberg</name>
+        <description><![CDATA[24 hours free wifi; network name: Telekom<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            11.079808,49.4971202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bologna Guglielmo Marconi Airport</name>
+        <description><![CDATA[Free wifi; network name: bologna airport free wifi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            11.2878593,44.5345216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McCarran International Airport</name>
+        <description><![CDATA[Centurion Lounge; password: MemberSince<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -115.1537389,36.0839998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LaGuardia Airport</name>
+        <description><![CDATA[Centurion Lounge; password: MemberSince<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -73.8739659,40.7769271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guangzhou Baiyun International Airport</name>
+        <description><![CDATA[In Terminal A: Network name: gbdya - password: 020itcbytj<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            113.3079699,23.3959079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soekarno-Hatta International Airport</name>
+        <description><![CDATA[Garuda Lounge Terminal 3; network name: GarudaLounge - username: Garudalounge*@*wifiPassword.id (no * around the @ sign) - password: garuda1234 -- Pura Indah Lounge network name: Pura Indah Lounge - password: manado (username: guest) -- Priority Pass Lounge ("Transfer Lounge") network name: TRANSFER LOUNGE - password: lounge5412<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            106.6536859,-6.1275118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O.R. Tambo International Airport</name>
+        <description><![CDATA[Free wifi 30 minutes. Connect to the network "AlwaysOn" and then (often you have to do this manually as the site doesn't always automatically pop up) go to: Connect.alwayson.za -- South African Lounge; network name: AlwaysOn@SAA: password VIAflysaa -- British Airways Lounge password: lasvegas -- Slow Lounge network name: Slow - password: relax -- Shongololo Lounge network name: ma hotspot - password: rubens -- network name: ma hotspot - (Username: Lounges) - password: rubens23<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            28.2411459,-26.1366728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vilnius International Airport</name>
+        <description><![CDATA[Free wifi; network name: Invest Lithuania FREE WIFI VNO<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            25.2865583,54.6380366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mariscal Sucre International Airport</name>
+        <description><![CDATA[VIP Lounge; network name: VIP_INTTL - password: V1p..N4iq<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -78.3586225,-0.1212164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Noi Bai International Airport</name>
+        <description><![CDATA[Free wifi; network name: NoiBai AirPort FreeWifi -- Gate 35 network name: Hong Ngoc - password: 12345678<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            105.8041709,21.2187149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>João Paulo II Airport</name>
+        <description><![CDATA[Free wifi; network name: _VINCI Airports -- SATA Lounge network name: Airport Lounge - password: AirportLounge2014<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -25.7003889,37.74233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brisbane Airport</name>
+        <description><![CDATA[Plaza Premium Lounge; Southern End of Terminal for access - password: plaza2016<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            153.115339,-27.394131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baden Airpark</name>
+        <description><![CDATA[Charter Lounge;  network name: ACM offen - password: ACMMACHTSPASS<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            8.1011832,48.786504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berlin Tegel Airport</name>
+        <description><![CDATA[Free wifi 60 minute limit. Network name: Free Airport WiFi Telekom -- Business Lounge Terminal C network name: Lounge-Terminal C - password: !Lounge#<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            13.2884374,52.5588327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Airport</name>
+        <description><![CDATA[Brussels Airlines Lounge; network name: B.connected Guests - password: extrasmile -- British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            4.4855744,50.900999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Austin-Bergstrom International Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -97.6663058,30.1974292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bradley International Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -72.6860314,41.9388735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charles de Gaulle Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017 -- network name: ESPACE_BUSINESS password: ADP2065 -- SAS Lounge (Satellite 7) network name: SAS WiPoint - password: SASJOY<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            2.5479245,49.0096906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charlotte Douglas International Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -80.9473146,35.2144026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denver International Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -104.6737376,39.8560963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIOgaleão - Tom Jobim International Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -43.2494233,-22.8134098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Wayne Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -117.8674759,33.6761901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toronto Pearson International Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -79.6248197,43.6777176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piedmont Triad International Airport</name>
+        <description><![CDATA[Admirals Club; password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9351805,36.1043671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baku Airport - Heydar Aliyev International Airport</name>
+        <description><![CDATA[Free wifi; network name: Baku Airport Free<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            50.0519589,40.4719091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Augusto Cesar Sandino International Airport</name>
+        <description><![CDATA[Free wifi; poor connection, works best in passenger arrivals. Network name: Aeropuerto Sandino<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -86.1717718,12.1413521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London Luton Airport</name>
+        <description><![CDATA[Free wifi; network name: Luton Airport WIFI<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -0.3717471,51.8762646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gdansk Lech Walesa Airport</name>
+        <description><![CDATA[Free wifi; network name: @GDNAirport_hotspot<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            18.468075,54.3788433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taiwan Taoyuan International Airport</name>
+        <description><![CDATA[Free wifi; network name: Airport Free WiFi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            121.234217,25.0796514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tirana International Airport Nënë Tereza</name>
+        <description><![CDATA[network name: Business Lounge; password: mikro20tik17<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            19.7192999,41.4144451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gold Coast Airport</name>
+        <description><![CDATA[Free wifi; network name: Airport Free Wi-Fi - Users are disconnected after 24 hours, or if they leave the airport >1 hour (requires social media login). -- Qantas Club password: Longreach<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            153.509074,-28.1656448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Townsville Airport</name>
+        <description><![CDATA[Free wifi; network name: Airport Free Wi-Fi - Users are disconnected after 24 hours, or if they leave the airport >1 hour (requires social media login).<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            146.770808,-19.2564798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Son Nhat International Airport</name>
+        <description><![CDATA[Free wifi. Network name: TSN_Wifi_Express -- FinBar (Level 2, Food Court) after immigration clearance; network name: Finbar - password: finbartsn -- Starcafe network name: Starcafe G14 - password: starcafetsn -- Apricot Lounge network name: Lounge - password: sasco149793<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            106.6588245,10.8184631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kyiv Boryspil International Airport</name>
+        <description><![CDATA[Free wifi; network name: Free Boryspil WiFi (logging on and off resets time) -- Terminal D network name: Elephant Pub - password: bestburgershere<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            30.8939274,50.338222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hamburg Airport</name>
+        <description><![CDATA[Free wifi 1 hour limit; network name: HAM AIRPORT FREE WIFI -- network name: HAM AIRPORT LOUNGE - password: HAMLounge<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            9.9974128,53.633622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Internacional Palonegro</name>
+        <description><![CDATA[Free wifi; network name: AEROPUERTO WIFI<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -73.1812714,7.1280895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varna Airport</name>
+        <description><![CDATA[Free wifi; network name: Airport Public Wifi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            27.8233386,43.2329252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palma de Mallorca Airport</name>
+        <description><![CDATA[Free wifi; network name: Airport_Free_WiFi_AENA<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            2.7361649,39.5517407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kärnten Airport</name>
+        <description><![CDATA[Free wifi; network name: Freewave<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            14.3248578,46.6500125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Graz Airport</name>
+        <description><![CDATA[Free wifi; network name: Freewave<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            15.4401314,46.9940455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salzburg Airport</name>
+        <description><![CDATA[Free wifi; network name: Freewave<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            13.0029274,47.7926466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sabiha Gokcen International Airport</name>
+        <description><![CDATA[CIP (Turkish Airlines) Lounge: network name: thy password: investinTurkey -- By gate 201; network name: VIPInternet (no password)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            29.3168603,40.905371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halifax Stanfield International Airport</name>
+        <description><![CDATA[Free wifi; 4 hour limit. Network name: Halifax_Airport<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -63.5094457,44.8859455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tampere–Pirkkala Airport</name>
+        <description><![CDATA[Free wifi; network name: Free Wi-Fi for you by Finavia<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            23.6046296,61.4148569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bandaranaike International Airport</name>
+        <description><![CDATA[Araliya Lounge; password: B1@lounge -- World Duty Free Departure Shop password: WDFG@T803 -- Lotus Lounge network name: #WIFI@LotusLounge password: B1@lounge<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            79.8842521,7.1801552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Paso International Airport</name>
+        <description><![CDATA[Free wifi; network name: Digital El Paso<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -106.3824345,31.8053354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leipzig/Halle Airport</name>
+        <description><![CDATA[Free wifi; only works near Lufthansa Business Lounge; network name: Telekom<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            12.2203805,51.4220814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muscat International Airport</name>
+        <description><![CDATA[Oman Air Business Class Lounge; username: OmanAir - password: welcome -- network name: Plaza Premium Lounge password: plaza2016 -- Majan Lounge network name: Majan (username: Majan - password: welcome)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            58.2870647,23.6016268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tucson International Airport</name>
+        <description><![CDATA[Free wifi; network name: TUS-hotspot<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -110.9392269,32.1145102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandakan Airport</name>
+        <description><![CDATA[Gloria Jean's Coffees (right before security control); network name: GloriaJean'sCoffees - password: 26gj2828<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            118.061772,5.8969285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madeira Airport</name>
+        <description><![CDATA[TAP Lounge;  password: TAP-wifi-2014<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -16.7758737,32.6957983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Düsseldorf International Airport</name>
+        <description><![CDATA[Network name: 30min free wifi Vodafone<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            6.7622701,51.2827846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Internacional Alfonso Bonilla Aragón de Palmira</name>
+        <description><![CDATA[Avianca Gold Lounge (domestic terminal); password: MOVISTARVIDEO<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -76.3840645,3.5439613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miguel Hidalgo y Costilla International Airport</name>
+        <description><![CDATA[VIP Lounge Nacional 1; password: vipnac16<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -103.307625,20.5259561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silvio Pettirossi International Airport</name>
+        <description><![CDATA[Sala VIP Gold Lounge; network name: VIPGOLD - password: welcome1710 -- Open network name: TIGO AISP -- Priority Pass Lounge: sala2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -57.5141224,-25.2416195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuttgart Airport</name>
+        <description><![CDATA[Network name: Telekom - 60 minute time limit.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            9.205576,48.6876365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuwait International Airport</name>
+        <description><![CDATA[Network name: FreeAirportWiFi - works best near gates 9 and 27 -- MasterCard Lounge network name: KEMS-MasterCard - password: naskems013 -- Near Gates 1 and 2 network name: KEMS-Pearllounge - password: naskems003<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            47.9714192,29.2397456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Teniente General Benjamín Matienzo</name>
+        <description><![CDATA[Free wifi; network name: AA2000-Personal<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -65.1083615,-26.8358881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Changi Airport Singapore</name>
+        <description><![CDATA[Network name: #WiFi@Changi - you need to get an access code from any information desk, good for 3 hours -- network name: Silverkris lounge password: SKL -- Dnata Lounge Terminal 1 password: dnataloungeT1 -- Emirates Lounge network name: EK Singapore - password: emirates7<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            103.9915308,1.3644202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Airport Bremen</name>
+        <description><![CDATA[Jacbos Coffee Bar (Arrivals); network name: WLAN-C19F15 - password: 4965659732044143<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            8.7858793,53.0479741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>King Khalid International Airport</name>
+        <description><![CDATA[Alfursan Lounge Terminal 2; network name: Alfursan - password: alwahadining<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            46.7012739,24.9593832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Katowice Airport</name>
+        <description><![CDATA[Network name: Business_Lounge - password: airport1 -- AE Coffee House network name: ae coffee house - password: lavazza7<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            19.0758814,50.4728015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abu Dhabi International Airport</name>
+        <description><![CDATA[Al Reem Lounge; network name: Plaza Premium Lounge - password: plaza2016 -- Etihad Business Class Lounge password: London<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            54.6500736,24.441938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haneda Airport</name>
+        <description><![CDATA[Free wifi; network name: HANEDA-FREE-WIFI<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            139.7798386,35.5493932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Narita International Airport</name>
+        <description><![CDATA[Free wifi; network name: FreeWiFi-NARITA<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            140.3928501,35.7719867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monterrey International Airport</name>
+        <description><![CDATA[network: AREAS WIFI - password: Divers123<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1079853,25.7778185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malta International Airport</name>
+        <description><![CDATA[Free wifi; network name: Maltairport Wi-Fi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            14.4832795,35.8541135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indira Gandhi International Airport</name>
+        <description><![CDATA[Emirates Lounge Terminal 3; network name: LOUNGE A and LOUNGE B - password: 6660055500<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            77.1180861,28.5494456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kigali International Airport</name>
+        <description><![CDATA[Network name: Bourbon@Airport - password: kivulake2016 -- Pearl Lounge network name: NAS - password: naswelcome<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            30.135014,-1.963042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rotterdam The Hague Airport</name>
+        <description><![CDATA[Free wifi; network name: KPN<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            4.4398832,51.9555086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santo-Pekoa International Airport</name>
+        <description><![CDATA[Free wifi; network name: NFWIFI<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            167.219678,-15.5054118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yangon International Airport</name>
+        <description><![CDATA[Terminal 2 - network name: EspaceCyberCafe<br>password: espacecafewifi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            96.1353171,16.9030555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edinburgh Airport</name>
+        <description><![CDATA[Free wifi; network name: _EDI FREE WIFI<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -3.3614532,55.950785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adelaide Airport</name>
+        <description><![CDATA[Free wifi; network name: Adelaide Airport Free Wifi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            138.5332378,-34.9461557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lisbon Portela Airport</name>
+        <description><![CDATA[ANA Lounge; network name: _ANA Lounge<br>password: WIFI@ANA-Lounge -- TAP Lounge network name: _TAP Lounge - password: Welcome2LIS<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -9.1353667,38.7755936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biju Pattnaik International Airport, Terminal-2</name>
+        <description><![CDATA[MayFair Lounge network name: Mayfair2 password: ciplounge12<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            85.816741,20.252756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chhatrapati Shivaji International Airport</name>
+        <description><![CDATA[British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            72.8656144,19.0895595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Domodedovo Moscow Airport</name>
+        <description><![CDATA[British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            37.9024513,55.4103069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malpensa Airport</name>
+        <description><![CDATA[British Airways Lounge password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            8.7255307,45.6300625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport</name>
+        <description><![CDATA[Free wifi; network name: Odessa Airport<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            30.677729,46.441473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Val de Cans International Airport</name>
+        <description><![CDATA[network name: DeltaExpresso password: coffeetime -- network name: cliente vip (cafe vip)<br>- password: cafevip10<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -48.4775227,-1.3820615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jackson-Medgar Wiley Evers International Airport</name>
+        <description><![CDATA[Free wifi; network name: JMAA WIFI<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0764217,32.3122283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Internacional Ernesto Cortissoz</name>
+        <description><![CDATA[VIP Lounge Avianca; network name: MOVISTAR_AVIANCA - password: MOVISTARCABLE<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -74.776247,10.8866068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>International Airport Kharkiv</name>
+        <description><![CDATA[network name: Lounge - password: priority<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            36.2799884,49.9218303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IKIA</name>
+        <description><![CDATA[network name: lounge - username: 1283 - password 058<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            51.1554896,35.4089938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Licenciado Gustavo Díaz Ordaz International Airport</name>
+        <description><![CDATA[Priority Pass Lounge network name: VIP Lounge 2 - password: P1A3B7A52B<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -105.2523762,20.6805184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lilongwe International Airport</name>
+        <description><![CDATA[network name: Ndege Lounge Wifi - password: limited1<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            33.7775,-13.783333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Julius Nyerere International Airport</name>
+        <description><![CDATA[network name: AIRPORT FREE-WIFI<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            39.2069164,-6.8725389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ted Stevens Anchorage International Airport</name>
+        <description><![CDATA[Free wifi; network name: TSAIA_PUBLIC -- Alaska Airlines Board Room; password: AL2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -149.9900791,61.1758863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wattay International Airport</name>
+        <description><![CDATA[network name: COFFEE SHOP - password: COFFEELOVE19<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            102.5634402,17.9869192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tallinna lennujaam</name>
+        <description><![CDATA[Free wifi; network name: Airport Free<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            24.8264805,59.4142599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gatwick Airport</name>
+        <description><![CDATA[Free wifi (90 minute limit); network name: Gatwick FREE Wi-Fi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1820629,51.1536621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Airport</name>
+        <description><![CDATA[BA Executive Lounge; network name: BALoungeWiFi - password: lasvegas<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2727303,53.3588026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zanzibar International Airport</name>
+        <description><![CDATA[Priority Pass Lounge network name: Paradise Lounge - password: Hello666<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            39.2212288,-6.2186003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrasco International Airport</name>
+        <description><![CDATA[VIP Lounge; network name: SalaVIP_partidas - password: Johnniewalker<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -56.0302418,-34.8371859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hannover Airport</name>
+        <description><![CDATA[Free wifi (3 hour limit); network name: Telekom<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            9.6889919,52.4618486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mariehamn Airport</name>
+        <description><![CDATA[Free wifi; network name: Free Wi-Fi for you by Finavia<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            19.9074777,60.1248328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Enrique Olaya Herrera</name>
+        <description><![CDATA[Avianca Lounge; password: MOVISTARVIDEO<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -75.586477,6.2186342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aviatur Aeropuerto Internacional Simón Bolívar</name>
+        <description><![CDATA[Avianca Lounge; password: MOVISTARVIDEO<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -74.2325978,11.1171379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Jose Joaquin De Olmedo</name>
+        <description><![CDATA[network name: VIP Lounge - password: vip010616<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -79.884134,-2.1481499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Captain FAP Carlos Martínez de Pinillos International Airport</name>
+        <description><![CDATA[Altomayo Cafe network name: -am- password: 9876543211<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -79.1074498,-8.0847503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rzeszów - Jasionka International Airport</name>
+        <description><![CDATA[Free wifi; network name: rze_free_wifi password: rze_free_wifi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            22.0250838,50.1108949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hong Kong International Airport</name>
+        <description><![CDATA[Free wifi; network name: #HKAirport Free WiFi -- Cathay Wing Lounge password: cathay1234 -- Plaza Premium Lounge network name: Plaza Premium Lounge - password: plaza2016 -- Skyteam Lounge network name: Sky Team Lounge - password: skyteam2016<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            113.9184808,22.308047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calgary</name>
+        <description><![CDATA[Free wifi; network name: Free YYC<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -114.0708459,51.0486151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Recife International Airport</name>
+        <description><![CDATA[VIP Lounge network name: PRO-AIR Wifi password: v1p2014@<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -34.9240154,-8.1259315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Internacional Panama Pacifico</name>
+        <description><![CDATA[network name: TocumenFree_2 - password: free12345<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -79.594518,8.9198198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Québec City Jean Lesage International Airport</name>
+        <description><![CDATA[Free wifi; network name: YQB-Internet<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -71.388569,46.7907719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palm Springs International Airport</name>
+        <description><![CDATA[Free wifi; network name: PSP Airport<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -116.5070468,33.8303194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>International Airport of Brasilia</name>
+        <description><![CDATA[network name: Wi-Fi WIN CLUB - password: BSBXP2016<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9172348,-15.8697369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>King Fahd International Airport</name>
+        <description><![CDATA[Starbucks; password: starbucks<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            49.7971637,26.4683641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diori Hamani International Airport</name>
+        <description><![CDATA[VIP Lounge network name: salon VIP - password: A1B2C3D4<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            2.177158,13.476534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vnukovo International Airport</name>
+        <description><![CDATA[Sky Priority Top Lounge network name: TopLounge - password: 18072016 -- Turkish Airlines Lounge (username: thy) password: investinTurkey<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            37.2712342,55.599648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Air Force Base Hoedspruit</name>
+        <description><![CDATA[Free wifi; network name: Server EastGateAirport<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            31.0449768,-24.3699399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benazir Bhutto International Airport Islamabad</name>
+        <description><![CDATA[Free wifi; network name: Wateen-Free-Wi-Fi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            73.0961992,33.6164555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gothenburg-Landvetter Airport</name>
+        <description><![CDATA[SAS Lounge network name: SAS WiPoint - password: SASJOY<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            12.292314,57.668799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malmö Airport</name>
+        <description><![CDATA[SAS Lounge network name: SAS WiPoint - password: SASJOY<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            13.3723829,55.5355336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luleå Airport</name>
+        <description><![CDATA[SAS Lounge network name: SAS WiPoint - password: SASJOY<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            22.1218555,65.5425485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tromsø Airport</name>
+        <description><![CDATA[SAS Lounge network name: SAS WiPoint - password: SASJOY<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            18.9162637,69.6819354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trondheim Airport</name>
+        <description><![CDATA[SAS Lounge network name: SAS WiPoint - password: SASJOY<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            10.922599,63.4582698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ålesund Airport</name>
+        <description><![CDATA[SAS Lounge network name: SAS WiPoint - password: SASJOY<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            6.1114908,62.5593728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phoenix Sky Harbor International Airport</name>
+        <description><![CDATA[Admirals Club password: Houston2017<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -112.0077881,33.4372686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roland Garros Airport</name>
+        <description><![CDATA[Free wifi; network name: WIFI_PUBLIC_AEROPORT<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            55.5178001,-20.891394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pierrefonds Airport</name>
+        <description><![CDATA[Free wifi; network name: WIFI_PUBLIC_AEROPORT<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            55.4236276,-21.3207484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Athens International Airport</name>
+        <description><![CDATA[Premium Goldair VIP Lounge username: goldair - password: cps120<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            23.9484156,37.9356467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boise Airport</name>
+        <description><![CDATA[Free wifi; network name: flyboise<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -116.222316,43.5658231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tribhuvan International Airport</name>
+        <description><![CDATA[Domestic terminal - network name: Buddhaair - password: frequent<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            85.3592231,27.6980899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Quoc international airport</name>
+        <description><![CDATA[Gates 1, 2, and 3 network name: Starcafe Mobile Cart PQC - password: starcafepqc -- Departure Hall Espresso To Go network name: Espresso1 PQC - password: espresso1pqc<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            103.9981516,10.1630359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queenstown Airport</name>
+        <description><![CDATA[Air New Zealand Lounge network name: AirNZ_Lounge - (no password)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            168.7399228,-45.0209721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zaragoza Airport</name>
+        <description><![CDATA[Free wifi; network name: Airport_free_WIFI_AENA (5 hour time limit).<br><br>Here's how to unlock airport wireless time limits: https://foxnomad.com/2014/05/22/unlock-unlimited-wifi-airports-time-restrictions/<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0079225,41.663511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pandit Deen Dayal Upadhyay Airport</name>
+        <description><![CDATA[Emirates Lounge Terminal 3 network names: LOUNGE A / LOUNGE B - password: 660055500<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            77.9617558,27.152696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antalya Airport</name>
+        <description><![CDATA[Network name: TAKE OFF CAFE - password: twenteafour24<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            30.8018768,36.9043327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norman Y. Mineta San Jose International Airport</name>
+        <description><![CDATA[Lavazza Coffee Shop network name: LAVAZZA-AIJS - password: lavazza123 -- network name: FreeBrioche - password: tresriosfree<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -121.9289375,37.3639472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Billund Airport</name>
+        <description><![CDATA[Free wifi, network name: FREEinternetBLL<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            9.1525999,55.7408067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Burgas</name>
+        <description><![CDATA[Free wifi; network name: Airport Public Wifi<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            27.5160873,42.5652706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Windhoek Hosea Kutako International Airport</name>
+        <description><![CDATA[Network name: NAC_Guest_Yfi - password: N@mibia (username: NAC)<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            17.4706438,-22.484637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Al Maktoum International Airport-DWC</name>
+        <description><![CDATA[Marhaba Lounge password: Virgo<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            55.1431018,24.8977876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chinggis Khaan International Airport</name>
+        <description><![CDATA[Free wifi 60 minute limit; network name: Airport Free<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            106.7700749,47.8408175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Americas International Airport</name>
+        <description><![CDATA[Venezolana Aerolinea Lounge password: VENEZOLANA123<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -69.6765756,18.4307498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hewanorra International Airport</name>
+        <description><![CDATA[Lounge password: getcomfy<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -60.950289,13.733375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Danube Airport Linz - Linz Airport</name>
+        <description><![CDATA[Free wifi; network name: blue danube airport - There is a 500 MB limit.<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            14.1923272,48.2398041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fredericton International Airport</name>
+        <description><![CDATA[Free wifi; network name: Fred-e-zone<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -66.5316581,45.8709186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Edén International Airport</name>
+        <description><![CDATA[Network name: MOVISTAR_AVIANCA - password: MOVISTARFIBRA<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -75.7662982,4.4528825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Loa Airport</name>
+        <description><![CDATA[Restaurante Costa Tacora network name: tacora (username: tacora) password: calamarestobar<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -68.9069661,-22.4989612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eindhoven Airport</name>
+        <description><![CDATA[Free wifi network name: KPN hotspot<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            5.3920556,51.4583691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Federico García Lorca Granada-Jaén Airport</name>
+        <description><![CDATA[Free wifi; bandwidth limited must watch 30 advertisement video first. Network name: Airport_Free_WiFi_AENA<br><br>Offline version of this map available!<br>iOS: http://apple.co/2b7BatI<br>Android: http://bit.ly/2dDeaaN]]></description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            -3.7765354,37.1874568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adisucipto International Airport</name>
+        <description>Borobudur Lounge network name: trimurti - password: yogyakarta</description>
+        <styleUrl>#icon-1417</styleUrl>
+        <Point>
+          <coordinates>
+            110.4317613,-7.7876838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
